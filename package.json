@@ -1,0 +1,27 @@
+{
+  "name": "variables-functions-and-objects",
+  "version": "0.1.0",
+  "description": "Exercícios envolvendo criação e atribuição de variáveis, criação e uso de funções e criação e manipulação de objetos para pessoas aprendendo programação usando JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wagner-BWG/Variables-Functions-and-Objects.git"
+  },
+  "keywords": [
+    "learning",
+    "aprendizado",
+    "javascript"
+  ],
+  "author": "Wagner-BWG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wagner-BWG/Variables-Functions-and-Objects/issues"
+  },
+  "homepage": "https://github.com/Wagner-BWG/Variables-Functions-and-Objects#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
